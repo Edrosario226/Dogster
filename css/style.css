@@ -1,0 +1,232 @@
+body{
+  margin-top:0px;
+  font-size:16px;
+    width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:Poppins;
+    word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+}
+p{
+  font-family:Roboto;
+}
+
+.navbar-default{
+  background: #fff;
+  border: 0;
+  font-family: Poppins;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  /*color: #fff !important;*/
+  font-weight: bold;
+}
+
+#mainPicture {
+  background: url("e:/Websites/Dogs&Unicorns/img/mainImage1.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  max-width: 100%;
+}
+#mainPicture .container {
+  height: 930px;
+  margin-bottom: 0px;
+}
+#mainPicture .container .row {
+  margin-top: 240px;
+
+}
+#mainPicture .container .row h1 {
+  font-size: 4em;
+  color: #fff;
+}
+
+#mainPicture .container .row p {
+  font-size: 16px;
+  color: #fff;
+  letter-spacing: 2px;
+}
+
+.left-button {
+  margin-top: 45px;
+  padding: 8px 28px 8px 28px;
+  border: 1px solid: #d8d8d8;
+  border-radius: 8px;
+  background-color: transparent; 
+  text-align: center;
+  color: #fff;
+  float: left;
+}
+button:hover {
+background-color: #fff;
+    color: #000;
+}
+
+.right-button {
+  margin: 45px;
+  padding: 8px 28px 8px 28px;
+  border: 1px solid: #d8d8d8;
+  border-radius: 8px;
+  background-color: transparent;
+  text-align: center;
+  color: #fff;
+  
+}
+
+#testimonial {
+  background:#f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align: center;
+  margin-top: 0px;
+}
+
+#testimonial p {
+  font-size: 24px;
+  font-family: 'Josefin Sans';
+  color: #000;
+}
+
+#testimonial p.customer {
+  font-size: 20px;
+  color: #666;
+}
+
+#about .container {
+  padding: 50px;
+}
+
+
+#about .container .row {
+  margin-bottom: 70px;
+}
+
+
+
+
+#about .container .row h2 {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 3em;
+  margin-top: 70px;
+}
+
+#about .container .row .aboutSubheading {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 15px;
+  margin-bottom: 70px;
+  color: #0071A5;
+}
+
+.firstLetter {
+  color: #0071A5;
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+#breed {
+  background: url("e:/Websites/Dogs&Unicorns/img/mainImage.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 400px;
+}
+
+#breed .container .row h1 {
+  color: #fff;
+  font-size: 4em;
+  margin-top: 70px;
+  margin-bottom: 0px;
+}
+
+#breed .container .row p {
+  color: #fff;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+#breed .container .row .tagline {
+  color: #ffc700;
+  font-size: 15px;
+  margin-left:20px; 
+  margin-top: 0px; 
+}
+
+.breed-button {
+  margin: 45px auto;
+  padding: 8px 28px 8px 28px;
+  border: 1px solid: #ffc700;
+  border-radius: 8px;
+  background-color: transparent;
+  text-align: center;
+  color: #ffc700;
+}
+
+#whistle .container {
+  padding: 50px;
+}
+
+
+#whistle .container .row {
+  margin-bottom: 70px;
+}
+
+
+#whistle .container .row h2 {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 3em;
+  margin-top: 70px;
+}
+
+#whistle .container .row .aboutSubheading {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 15px;
+  margin-bottom: 70px;
+  color: #0071A5;
+}
+
+#contact {
+  background: url(../img/image3a.jpg) no-repeat;
+  background-size: cover;
+  padding:40px;
+  color: #fff;
+  border-top:#333 7px solid;
+  border-bottom:#333 7px solid;
+}
+footer {
+  padding: 30px;
+}
+
+@media 
+  (min-width: 375px) and (max-width: 400px),
+  (min-width: 468px)   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
