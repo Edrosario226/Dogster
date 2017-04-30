@@ -30,7 +30,7 @@ p{
 }
 
 #mainPicture {
-  background: url('img/mainImage1.jpg') no-repeat center center fixed;
+  background: url('../img/mainImage1.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -139,7 +139,7 @@ background-color: #fff;
 }
 
 #breed {
-  background: url('img/mainImage.jpg') no-repeat center center fixed;
+  background: url('../img/mainImage.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -203,7 +203,7 @@ background-color: #fff;
 }
 
 #contact {
-  background: url('img/image3a.jpg') no-repeat;
+  background: url('../img/image3a.jpg') no-repeat;
   background-size: cover;
   padding:40px;
   color: #fff;
